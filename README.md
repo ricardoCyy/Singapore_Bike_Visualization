@@ -8,7 +8,7 @@ The so-called dockless bike-sharing bussiness brings us the oppertunity to sketc
 
 ### Spatio-Temporal Pattern:
 #### 1. At *hourly* resolution
-Hourly differences of arrival trips (Destinations) during a randomly picked **weekday** in each **250m** redius hexagon of Singapore. On morning peak ([7am-9am](https://en.wikipedia.org/wiki/Rush_hour#Singapore)) destinations are concentrated in HDB towns in singapore(home), while on evening peak ([6pm-8pm](https://en.wikipedia.org/wiki/Rush_hour#Singapore)) the destinations are diverse, which means ***shared bikes in Singapore are solving the first mile problem in morning.***[1]
+Hourly differences of arrival trips (Destinations) during a randomly picked **weekday** in each **250m** redius hexagon of Singapore. On morning peak ([7am-9am](https://en.wikipedia.org/wiki/Rush_hour#Singapore)) destinations are concentrated in HDB towns in singapore(home), while on evening peak ([6pm-8pm](https://en.wikipedia.org/wiki/Rush_hour#Singapore)) the destinations are diverse, which means ***shared bikes in Singapore are solving the first mile problem in morning.*** [1]
 ![Hourly](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/one_day.gif)
 
 #### 2. At *weekday-weekend* resolution
@@ -32,3 +32,5 @@ Raining has notable effect([20% decrease generally](https://youtu.be/_yfiuV4j9Jw
 We have [an awesome video](https://www.youtube.com/watch?v=_yfiuV4j9Jw) about these contents above and further researches to support travel demand forecast and fleet size management will come soon.
 The visualiztion and parts of analysis & data collection are done by me.
 The codes will be shared in this repository soon.
+##Reference:
+[1] Y Xu, D Chen, X Zhang, W Tu, Y Chen, Y Shen, C Ratti: Unravel the Landscape and Pulses of Cycling Activities from A Deckless Bike-Sharing System, Under Review.
