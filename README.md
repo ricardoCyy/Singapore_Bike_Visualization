@@ -12,7 +12,7 @@ Hourly differences of arrival trips (Destinations) during a randomly picked **we
 ![Hourly](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/one_day.gif)
 
 #### 2. At *weekday-weekend* resolution
-On weekday, cycling activities are concentrated in particular areas of Singapore which show similar spatial pattern with **higher** amount([37%](https://youtu.be/_yfiuV4j9Jw?t=60)) on weekends, while slight differences are observed in outdoor attractions(e.g. [Marina Bay](https://www.google.com/maps/place/Marina+Bay+Sands,+Singapore/@1.3033138,103.8120058,11.75z/data=!4m5!3m4!1s0x31da19042950679d:0x7e9eb96cc0e8d6f2!8m2!3d1.2833754!4d103.8607264), [East Coast Park](https://www.google.com/maps/place/East+Coast+Beach/@1.3287831,103.8228122,11.88z/data=!4m12!1m6!3m5!1s0x31da22b906ff05d1:0xaffda4da354a96fa!2sEast+Coast+Park!8m2!3d1.3007842!4d103.9121866!3m4!1s0x31da187774c4d073:0x6dc2e74a10c148fc!8m2!3d1.2991943!4d103.9112697), etc.)
+On weekday, cycling activities are concentrated in particular areas of Singapore which show similar spatial pattern with **higher** amount ([37%](https://youtu.be/_yfiuV4j9Jw?t=60)) on weekends, while slight differences are observed in outdoor attractions (e.g. [Marina Bay](https://www.google.com/maps/place/Marina+Bay+Sands,+Singapore/@1.3033138,103.8120058,11.75z/data=!4m5!3m4!1s0x31da19042950679d:0x7e9eb96cc0e8d6f2!8m2!3d1.2833754!4d103.8607264), [East Coast Park](https://www.google.com/maps/place/East+Coast+Beach/@1.3287831,103.8228122,11.88z/data=!4m12!1m6!3m5!1s0x31da22b906ff05d1:0xaffda4da354a96fa!2sEast+Coast+Park!8m2!3d1.3007842!4d103.9121866!3m4!1s0x31da187774c4d073:0x6dc2e74a10c148fc!8m2!3d1.2991943!4d103.9112697), etc.)
 ![WeekdayWeekend](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/weekday-weekend.gif)
 
 ### Spatial:
@@ -21,12 +21,12 @@ Shared bikes show strong connection to public transport, we use MRT as an exampl
 ![MRT](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/near_station.gif)
 
 #### 2. Community detection
-Most trips are short in distance from which we can easily generating spatially cohesive communities using community detection algorithm([Blondel et al.](http://arxiv.org/abs/0803.0476)).
+Most trips are short in distance from which we can easily generating spatially cohesive communities using community detection algorithm ([Blondel et al.](http://arxiv.org/abs/0803.0476)).
 ![CommunityDetection](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/community_detection.gif)
 
 ### Weather:
 #### 1. Rain or Not
-Raining has notable effect([20% decrease generally](https://youtu.be/_yfiuV4j9Jw?t=80)) on bike demands.
+Raining has notable effect ([20% decrease generally](https://youtu.be/_yfiuV4j9Jw?t=80)) on bike demands.
 ![RainorNot](https://github.com/ricardoCyy/imgs/blob/master/Sin_web/rain_or_not.gif)
 
 We have [an awesome video](https://www.youtube.com/watch?v=_yfiuV4j9Jw) about these contents above and further researches to support travel demand forecast and fleet size management will come soon.
