@@ -32,5 +32,6 @@ Raining has notable effect ([20% decrease generally](https://youtu.be/_yfiuV4j9J
 We have [an awesome video](https://www.youtube.com/watch?v=_yfiuV4j9Jw) about these contents above and further researches to support travel demand forecast and fleet size management will come soon.
 The visualiztion and parts of analysis & data collection are done by me.
 The codes will be shared in this repository soon.
-##Reference:
+
+## Reference:
 [1] Y Xu, D Chen, X Zhang, W Tu, Y Chen, Y Shen, C Ratti: Unravel the Landscape and Pulses of Cycling Activities from A Deckless Bike-Sharing System, Under Review.
