@@ -34,4 +34,4 @@ The visualiztion and parts of analysis & data collection are done by me.
 The codes will be shared in this repository soon.
 
 ## Reference:
-[1] Y Xu, D Chen, X Zhang, W Tu, Y Chen, Y Shen, C Ratti: Unravel the Landscape and Pulses of Cycling Activities from A Deckless Bike-Sharing System, Under Review.
+[1] [Y Xu, D Chen, X Zhang, W Tu, Y Chen, Y Shen, C Ratti.(2019). Unravel the Landscape and Pulses of Cycling Activities from A Deckless Bike-Sharing System, Computers, Environment and Urban Systems, 1-29.](https://www.researchgate.net/publication/330985511_Unravel_the_Landscape_and_Pulses_of_Cycling_Activities_From_A_Dockless_Bike-Sharing_System)
